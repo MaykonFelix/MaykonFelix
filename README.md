@@ -10,11 +10,7 @@
 
 **Thanks For Reading and Welcome in my Life...**
 
-
-<div align="center">
-<img src:/>
-<div align="center">
-
+👨🏽‍💻 Under construction every day !!!
 <!---
 MaykonFelix/MaykonFelix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
