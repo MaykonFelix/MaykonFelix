@@ -16,10 +16,14 @@
 
 <em>
  
+<p> <img src="https://img.shields.io/badge/ReactJS-gray?style=plastic&logo=react"> <img src="https://img.shields.io/badge/Node-gray?style=plastic&logo=node"> <img src="https://img.shields.io/badge/TypeScript-gray?style=plastic&logo=typescript"> <img src="https://img.shields.io/badge/Bootstrap-gray?style=plastic&logo=bootstrap"> <img src="https://img.shields.io/badge/TailwindCSS-gray?style=plastic&logo=tailwindcss"></p> 
+
+
 ### Cloning the Net
 - [x] FigmanJan
+- [ ] Win 11 Ui
 - [ ] Trello
-  
+
 ## **Thanks For Reading and Welcome to my Life...**
 
 > 👨🏽‍💻 Under construction every day !!!
