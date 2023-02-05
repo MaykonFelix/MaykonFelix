@@ -20,6 +20,7 @@
 
 
 ### Cloning the Net
+- [x] TypeForm
 - [x] FigmanJan
 - [ ] Win 11 Ui
 - [ ] Trello
