@@ -13,19 +13,24 @@
   </ul>
   <ul>
     <ul>
-       <li>E-mail</li>
+       <li>Linkedin</li>
           <div align="left">
             <a href="https://www.linkedin.com/in/maykonfelixwebdeveloper/">
               <img src="https://skillicons.dev/icons?i=linkedin,vscode)" />  
             </a>
           </div>
+      <li>Instagram</li>
           <div align="left">
               <a href="https://www.instagram.com/maykon.felix.silva/">
                <img src="https://skillicons.dev/icons?i=instagram,vscode)" />  
              </a>
          </div>
       </ul> 
-  
+  <em>
+    <br>
+    <br>
+    
+   ## **Skills**
   <p align="left">
     <a href="#">
       <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,react,nodejs,tailwindcss,github,vscode)" />  
