@@ -9,36 +9,17 @@
     <li> 👀 I’m interested in learning and Working in the Web Developer...</li>
     <li>🌱 I’m currently learning Node, ReactJS and Typescript...</li>
     <li>💞️ I’m looking to collaborate on with business growth thorough information technology and simplifying access to information...</li>
-    <li>📫 How to reach me </li>
   </ul>
-  <ul>
-    <ul>
-       <li>Linkedin</li>
-          <div align="left">
-            <a href="https://www.linkedin.com/in/maykonfelixwebdeveloper/">
-              <img src="https://skillicons.dev/icons?i=linkedin,vscode)" />  
-            </a>
-          </div>
-      <li>Instagram</li>
-          <div align="left">
-              <a href="https://www.instagram.com/maykon.felix.silva/">
-               <img src="https://skillicons.dev/icons?i=instagram,vscode)" />  
-             </a>
-         </div>
-      </ul> 
-  <em>
-    <br>
-    <br>
     
    ## **Skills**
   <p align="left">
     <a href="#">
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,react,nodejs,tailwindcss,github,vscode)" />  
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,react,nodejs,tailwindcss,github,mysql,vscode)" />  
     </a>
   </p>
 
 
-## **Thanks For Reading and Welcome to my Life...**
+## *Thanks For Reading and Welcome to my Life...*
 
 > 👨🏽‍💻 Under construction every day !!!
 <!---
