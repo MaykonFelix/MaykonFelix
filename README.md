@@ -1,4 +1,4 @@
-<h2><strong>👋</strong></h2>
+<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" alt="gif" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=30&pause=1000&width=435&lines=Hello%2C+my+name+is+Maykon+Felix+%F0%9F%98%89;I+am+Web+Developer+%F0%9F%93%9F;Welcome+to+my+Github+" alt="Typing SVG" /></a>
 
