@@ -12,12 +12,8 @@
   </ul>
     
    ## **Skills**
-  <p align="left">
-    <a href="#">
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,react,nodejs,tailwindcss,github,mysql,vscode)" />  
-    </a>
-  </p>
-
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwindcss,github,mysql&theme=dark)](https://skillicons.dev)
 
 ## *Thanks For Reading and Welcome to my Life...*
 
