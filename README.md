@@ -15,13 +15,18 @@
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwindcss,github,mysql&theme=dark)](https://skillicons.dev)
 
+  ## 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaykonFelix&theme=blueberry_duo&hide_border=true&border_radius=4.4&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+  
+  
 ## *Thanks For Reading and Welcome to my Life...*
 
-> 👨🏽‍💻 Under construction every day !!!
++ 👨🏽‍💻 Under construction every day !!!
   
   
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaykonFelix&theme=blueberry_duo&hide_border=true&border_radius=4.4&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <!---
 MaykonFelix/MaykonFelix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
