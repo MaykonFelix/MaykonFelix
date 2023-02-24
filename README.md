@@ -4,7 +4,7 @@
 
 <em>
   
-  <img width="350" height="190" align="right" src="/Assests/giphy.gif">
+  <img width="350" height="190" align="right" src="/Assests/giphy2.gif">
   <ul>
     <li> 👀 I’m interested in learning and Working in the Web Developer...</li>
     <li>🌱 I’m currently learning Node, ReactJS and Typescript...</li>
