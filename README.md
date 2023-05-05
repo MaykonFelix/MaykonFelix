@@ -14,7 +14,7 @@
   <br><br><br>
    ## **Skills**
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwindcss,mysql,docker,py,github&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,mysql,java,py,github&theme=dark)](https://skillicons.dev)
   
 
   ## **GitHub Status**
