@@ -6,8 +6,8 @@
   <img width="320" height="200" align="right" src="/Assests/giphy2.gif">
   
   <ul>
-    <li> 👀 I’m interested in learning and Working in the Web Developer...</li>
-    <li>🌱 I’m currently learning Node, ReactJS and Typescript...</li>
+    <li> 👀 I’m interested in learning and Working in the Developer...</li>
+    <li>🌱 I’m currently learning ReactJS and Typescript...</li>
     <li>💞️ I’m looking to collaborate on with business growth thorough information technology and simplifying access to information...</li>
   </ul>
     
@@ -26,8 +26,3 @@
 
 + 👨🏽‍💻 Under construction every day !!!
     
-
-<!---
-MaykonFelix/MaykonFelix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
