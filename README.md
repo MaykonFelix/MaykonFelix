@@ -7,14 +7,13 @@
   
   <ul>
     <li> 👀 I’m interested in learning and Working in the Developer...</li>
-    <li>🌱 I’m currently learning ReactJS and Typescript...</li>
-    <li>💞️ I’m looking to collaborate on with business growth thorough information technology and simplifying access to information...</li>
+    <li>🌱 I’m currently learning NextJS</li>
   </ul>
     
   <br><br><br>
    ## **Skills**
   
-  [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,mysql,java,py,github&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,mysql,java,py,github&theme=dark)](https://skillicons.dev)
   
 
   ## **GitHub Status**
