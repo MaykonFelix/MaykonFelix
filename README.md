@@ -24,5 +24,4 @@
 ## *Thanks For Reading and Welcome to my Life...*
 
 + 👨🏽‍💻 Under construction every day !!!
-    
-+ Estou em casa
++ #NeverStopLearning
