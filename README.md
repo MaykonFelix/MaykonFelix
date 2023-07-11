@@ -5,10 +5,6 @@
 
   <img width="320" height="200" align="right" src="/Assests/giphy2.gif">
   
-  <ul>
-    <li> 👀 I’m interested in learning and Working in the Developer...</li>
-    <li>🌱 I’m currently learning NextJS</li>
-  </ul>
     
   <br><br><br>
    ## **Skills**
