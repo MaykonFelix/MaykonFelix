@@ -1,28 +1,33 @@
 <table>
   <tr>
     <td>
-
-# Hi, I'm Maykon
-
-<h3>Front End</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
-
-<h3>Back End</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,java,py" />
-
-<h3>DevOps</h3>
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,mysql,java,py" />
-
-!My Skills
-
-## *Thanks For Reading and Welcome*
-
-<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" alt="gif" />
+  # Hi, I'm Maykon
+  
+  ## My Skills 🌐
+  
+  <h3>Front End 🗽</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+  
+  <h3>Back End ⚓</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongo" />
+  
+  <h3>DevOps 🚁</h3>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,nginx" />
+  
+  <h3>Anorter Skill's :shipit:</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,py" />
+  
+  <h3>Desgin 🎨</h3>
+  <img src="https://skillicons.dev/icons?i=figma,ai,photoshop,ae,pr" />
+  
+  ## *Thanks For Reading and Welcome*
+  
+  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" alt="gif" />
     </td>
-    <td>
+      <td>
       <img width="300" height="210" src="/Assests/giphy2.gif">
-       <p>Developer</p>
-    </td>
+      <p align="center">:trollface: Web Developer </p>
+      </td>
   </tr>
 </table>
 
