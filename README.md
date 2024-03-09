@@ -15,7 +15,7 @@
   <h3>DevOps 🚁</h3>
   <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,nginx" />
   
-  <h3>Anorter Skill's :shipit:</h3>
+  <h3>Another Skill's :shipit:</h3>
   <img src="https://skillicons.dev/icons?i=git,github,linux,postman,py" />
   
   <h3>Desgin 🎨</h3>
@@ -27,7 +27,7 @@
     </td>
       <td>
       <img width="300" height="210" src="/Assests/giphy2.gif">
-      <p align="center">:trollface: Web Developer </p>
+      <p align="center">:trollface: Web Developer  </p>
       </td>
   </tr>
 </table>
