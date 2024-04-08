@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongo" />
   
   <h3>DevOps 🚁</h3>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,go,jenkins,githubactions,nginx" />
   
   <h3>Another Skill's :shipit:</h3>
   <img src="https://skillicons.dev/icons?i=git,github,linux,postman,py" />
